@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="bg_gray">#F3F4F6</color>       <!-- Светло-серый фон -->
+    <color name="primary_blue">#4F46E5</color>  <!-- Синий цвет кнопки -->
+    <color name="status_done">#FBBF24</color>   <!-- Желтый (Завершить) -->
+    <color name="status_delete">#EF4444</color> <!-- Красный (Удалить) -->
+    <color name="status_green">#D1FAE5</color>  <!-- Зеленый фон выполненной задачи -->
+    <color name="text_green">#065F46</color>    <!-- Зеленый текст -->
+</resources>
